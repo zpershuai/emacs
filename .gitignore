@@ -1,3 +1,4 @@
 spacemacs-develop.d/.spacemacs.env
 spacemacs-develop/layers/*
-spacemacs-develop/.*
+spacemacs-develop/.cache
+spacemacs-develop/elpa/
